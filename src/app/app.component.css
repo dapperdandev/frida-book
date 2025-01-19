@@ -5,6 +5,11 @@
     font-style: normal;
     text-align: center;
 }
+@media (max-width: 576px) {
+    .title {
+        font-size: 2rem;
+    }
+}
 
 .navbar {
     background-color: rgba(0, 0, 0, 0) !important;
