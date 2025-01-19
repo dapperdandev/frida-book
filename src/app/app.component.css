@@ -1,19 +1,19 @@
 .title {
-  font-family: "Delius", serif;
-  font-size: 5rem;
-  font-weight: 400;
-  font-style: normal;
-  text-align: center;
+    font-family: "Delius", serif;
+    font-size: 5rem;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
 }
 
 .navbar {
-  background-color: rgba(0, 0, 0, 0) !important;
+    background-color: rgba(0, 0, 0, 0) !important;
 }
 
 .btn-amazon {
-  background-color: #f8bc62;
+    background-color: #f8bc62;
 }
 
 .btn-bn {
-  background-color: #415963;
+    background-color: #415963;
 }
